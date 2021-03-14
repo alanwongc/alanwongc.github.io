@@ -1,0 +1,67 @@
+#title{
+
+  background-image: url("../images/IMG_2328.jpg");
+
+
+  background-size: cover;
+  background-position: center;
+  background-color: #383e56;
+  color: white;
+  border-bottom: 5px;
+  min-height: 500px;
+
+
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+
+  padding: 0 0 4.5rem;
+}
+
+
+
+
+/* Title Image */
+.title-img{
+  width: 50%;
+}
+
+
+#s1{
+  padding: 7% 15%;
+  background-color: white;
+}
+
+/* s2 */
+#s2{
+  padding: 7% 15%;
+  text-align: left;
+  background-color: #c5d7bd;
+
+}
+
+.carousel-item {
+height: 400px;
+color:black;
+overflow: hidden;
+width: 100%;
+}
+.carousel-item img {
+width: 100%;
+}
+
+.carousel-control-prev-icon {
+ background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='black' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+#f{
+  margin: 20px;
+  text-align: center;
+}

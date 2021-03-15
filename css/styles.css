@@ -43,6 +43,14 @@
 
 }
 
+/* s3 */
+#s3{
+  padding: 7% 15%;
+  text-align: left;
+  background-color: #9fb8ad;
+
+}
+
 .carousel-item {
 height: 400px;
 color:black;

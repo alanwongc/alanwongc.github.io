@@ -51,6 +51,10 @@
 
 }
 
+.center{
+  text-align: center;
+}
+
 .carousel-item {
 height: 400px;
 color:black;
